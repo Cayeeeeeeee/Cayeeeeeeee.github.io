@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Caye"
   avatar           : "profile photo.png"
-  bio              : "USTC"
+  bio              : "USTC student"
   location         : "Suzhou China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  lcy_id@mail.ustc.edu.cn
+  email            :  "lcy_id@mail.ustc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
