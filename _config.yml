@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caye Homepage"
+title                    : "Cayee Homepage"
 title_separator          : "-"
-name                     : &name "Caye"
+name                     : &name "Cayee"
 description              : &description "personal description"
 url                      : https://cayeeeeeeee.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Caye"
+  name             : "Cayee"
   avatar           : "profile photo.png"
   bio              : "USTC student"
   location         : "Suzhou China"
