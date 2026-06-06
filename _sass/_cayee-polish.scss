@@ -1,0 +1,123 @@
+$cayee-ink: #253238;
+$cayee-muted: #68727a;
+$cayee-accent: #2f6f73;
+$cayee-soft: #eef5f4;
+$cayee-line: #e5eceb;
+
+body {
+  background: #ffffff;
+  color: $cayee-ink;
+  font-family: "Aptos", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.masthead {
+  border-bottom: 1px solid $cayee-line;
+  box-shadow: 0 1px 0 rgba(37, 50, 56, 0.02);
+}
+
+.masthead__inner-wrap {
+  font-family: "Aptos", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.greedy-nav {
+  background: #ffffff;
+
+  a {
+    color: $cayee-ink;
+  }
+
+  .visible-links a:before {
+    background: $cayee-accent;
+  }
+}
+
+#main {
+  margin-top: 2.2em;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+  border: 4px solid #ffffff;
+  box-shadow: 0 8px 24px rgba(37, 50, 56, 0.14);
+}
+
+.author__name {
+  margin-bottom: 0.25rem;
+  color: $cayee-ink;
+  font-family: "Aptos", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 650;
+}
+
+.author__bio,
+.author__urls {
+  color: $cayee-muted;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.author__urls a {
+  color: $cayee-accent;
+}
+
+.page__title {
+  color: $cayee-ink;
+  font-family: "Aptos", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 650;
+  letter-spacing: 0;
+}
+
+.page__content {
+  color: $cayee-ink;
+  font-size: 0.98rem;
+  line-height: 1.75;
+
+  h1,
+  h2 {
+    margin-top: 1.8rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid $cayee-line;
+    color: $cayee-accent;
+    font-family: "Aptos", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 650;
+  }
+
+  p,
+  li {
+    font-size: 0.98rem;
+  }
+
+  a {
+    color: $cayee-accent;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(47, 111, 115, 0.35);
+  }
+
+  a:hover {
+    color: darken($cayee-accent, 8%);
+    border-bottom-color: $cayee-accent;
+  }
+}
+
+.archive__item-title {
+  color: $cayee-ink;
+  font-family: "Aptos", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 650;
+}
+
+.archive__item-excerpt,
+.page__meta,
+.page__date {
+  color: $cayee-muted;
+}
+
+.btn,
+.btn--primary {
+  background-color: $cayee-accent;
+}
+
+.page__footer,
+.site-footer {
+  background: $cayee-soft;
+  border-top: 1px solid $cayee-line;
+}
