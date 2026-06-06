@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-present: Ph.D. student, Nano Science and Engineering, University of Science and Technology of China
+  * Advisors: Prof. Dong Liu and Prof. Yujie Xiong
+* 2018-2022: B.S., New Energy Science and Engineering, Southwest Petroleum University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Interfacial design of photoelectrocatalysts for selective CO2 reduction
+* Cascade photoelectrocatalytic oxidation of glycerol to value-added chemicals
+* Photoelectrocatalytic device engineering for green organic synthesis
+
+Honors and Awards
+======
+
+* 2024: First Prize Scholarship, University of Science and Technology of China
+* 2022: Outstanding Dissertation in Sichuan Province, China
+* 2022: Outstanding Graduate in Sichuan Province, China
+* 2021: National Scholarship, China
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
