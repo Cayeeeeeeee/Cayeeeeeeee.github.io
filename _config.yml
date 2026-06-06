@@ -1,8 +1,8 @@
 # Site Settings
 locale: "en-US"
-title: "Cayee"
+title: "cayee"
 title_separator: "-"
-name: &name "Cayee"
+name: &name "cayee"
 description: &description "Ph.D. student in Nano Science and Engineering at USTC"
 url: https://cayeeeeeeee.github.io
 baseurl: ""
@@ -30,7 +30,7 @@ facebook:
 og_image:
 social:
   type: Person
-  name: "Cayee"
+  name: "cayee"
   links:
 
 # Analytics
@@ -39,7 +39,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Cayee"
+  name: "cayee"
   avatar: "profile photo.png"
   bio: "Ph.D. student, USTC"
   location: "Suzhou, China"
