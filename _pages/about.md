@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Caiyi Liu, a Ph.D. student in Nano Science and Engineering at USTC, advised by Prof. Dong Liu and Prof. Yujie Xiong. My research focuses on photoelectrocatalysis for selective carbon dioxide reduction, biomass-derived molecule upgrading, and device engineering for green organic synthesis.
+I am cayee, a Ph.D. student in Nano Science and Engineering at USTC, advised by Prof. Dong Liu and Prof. Yujie Xiong. My research focuses on photoelectrocatalysis, with particular interests in selective CO2 reduction, glycerol upgrading, and green organic synthesis.
 
 Research Interests
 ======
