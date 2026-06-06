@@ -1,6 +1,6 @@
 # Site Settings
 locale: "en-US"
-title: "Cayee"
+title: "Homepage"
 title_separator: "-"
 name: &name "Cayee"
 description: &description "Ph.D. student in Nano Science and Engineering at USTC"
