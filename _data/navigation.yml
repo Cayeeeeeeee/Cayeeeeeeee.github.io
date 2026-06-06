@@ -1,7 +1,13 @@
 # main links
 main:
+  - title: "Project"
+    url: /project/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Education"
+    url: /education/
+
+  - title: "Honors and Awards"
+    url: /honors/
